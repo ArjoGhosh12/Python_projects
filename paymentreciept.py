@@ -35,8 +35,8 @@ def generate_receipt(customer_name, invoice_number, payment_amount):
 
 # Example usage
 if __name__ == "__main__":
-    customer_name = input("Enter name-----",end="")
-    invoice_number = input("Enter invoice number------",end="")
+    customer_name = input("Enter name-----")
+    invoice_number = input("Enter invoice number------")
     payment_amount = int(input("Enter Amount-------"))
 
     generate_receipt(customer_name, invoice_number, payment_amount)
