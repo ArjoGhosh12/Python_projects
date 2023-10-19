@@ -7,13 +7,13 @@ Welcome to the [Python_projects] repository!
 To get started with [Python_projects], follow these simple steps:
 
 1. **Installation:**
-   - [Provide installation instructions here. Be sure to include any required dependencies.]
+  
 
 2. **Configuration:**
-   - [Explain how to configure the project, if necessary.]
+   -
 
 3. **Usage:**
-   - [Describe how to run the project and give examples of common use cases.]
+  
 
 ## Contribution Guidelines
 
